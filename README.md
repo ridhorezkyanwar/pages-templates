@@ -3,9 +3,6 @@
 <h1 align="center">Tencent EdgeOne | <a href="https://edgeone.ai/products/pages" target="_blank" rel="noopener noreferrer">Pages</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=520&lines=Build+%E2%80%A2+Test+%E2%80%A2+Improve" alt="Animated banner: Build, Test, Improve" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/EdgeOne%20Pages-0052D9?style=flat-square" alt="EdgeOne Pages badge" />
   <img src="https://img.shields.io/badge/Templates-6F42C1?style=flat-square" alt="Templates badge" />
 </p>
@@ -30,9 +27,6 @@
   <img src="https://edgeone.ai/_next/static/media/images-wall.edb0c9d9.png" alt="EdgeOne Edge Functions Mockup" title="EdgeOne Edge Functions"/>
 </p>
 
-
-
-
 ## Features
 
 - 🚀 **Rapid Go-Live Process**: From zero to a fully accessible website in just a few minutes!
@@ -41,7 +35,6 @@
 - 📈 **Comprehensive Feature Access**: Enjoy free access to all EdgeOne Pages capabilities.
 - 🔗 **Seamless Integration**: Easily integrate with popular tools and services like GitHub, GitLab, and Bitbucket for streamlined workflows.
 - 🌐 **Custom Domain Support**: Use your own domain name for your EdgeOne Pages, enhancing your brand's identity and professionalism.
-
 
 ## Benefits
 
