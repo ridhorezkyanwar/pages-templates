@@ -1,6 +1,15 @@
 <a id="readme"></a>
 
 <h1 align="center">Tencent EdgeOne | <a href="https://edgeone.ai/products/pages" target="_blank" rel="noopener noreferrer">Pages</a></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=520&lines=Build+%E2%80%A2+Test+%E2%80%A2+Improve" alt="Animated banner: Build, Test, Improve" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/EdgeOne%20Pages-0052D9?style=flat-square" alt="EdgeOne Pages badge" />
+  <img src="https://img.shields.io/badge/Templates-6F42C1?style=flat-square" alt="Templates badge" />
+</p>
+
 <p align="center">
   <b>💥 Launch Your Web App in No Time</b>
 </p>
